@@ -1,0 +1,19 @@
+.categories ul button {
+  font-size: 20px;
+  border-radius: 20px;
+  margin-right: 20px;
+  padding: 10px;
+}
+.categories {
+  margin-bottom: 20px;
+}
+.categories ul button:focus {
+  background-color: black;
+  color: white;
+  outline: none;
+}
+.categories ul button:hover {
+  background-color: rgb(15, 14, 14);
+  color: white;
+  outline: none;
+}

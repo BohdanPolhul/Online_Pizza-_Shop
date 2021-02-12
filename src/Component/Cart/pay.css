@@ -1,0 +1,81 @@
+.pay_center {
+  text-align: center;
+}
+.pay_center a {
+  font-size: 28px;
+  padding-bottom: 10px;
+  background-color: black;
+  color: aliceblue;
+  border-radius: 30px;
+  text-decoration: none;
+}
+.pay_center a:hover {
+  background-color: dimgray;
+  color: aliceblue;
+}
+.size_cart {
+  width: 70%;
+  margin: auto;
+}
+.size_cart button {
+  cursor: pointer;
+  font-size: 28px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.size_cart .btn {
+  cursor: pointer;
+  font-size: 28px;
+  padding: 10px;
+  border-radius: 20px;
+  float: right;
+  margin-right: 20px;
+}
+.size_cart button:focus {
+  outline: none;
+}
+.pizza_closed {
+  display: flex;
+}
+.pizza_closed span {
+  color: #181818;
+  font-size: 24px;
+  letter-spacing: 1%;
+  font-weight: 400;
+  margin-right: 30px;
+}
+.pizza_closed button {
+  height: 40px;
+  width: 50px;
+  border-radius: 100%;
+  position: relative;
+  top: 20px;
+  padding-bottom: 40px;
+}
+.pizza_closed h2 {
+  position: relative;
+  padding-left: 5px;
+  padding-right: 5px;
+  top: 10px;
+}
+.pizza_closed .spn {
+  font-size: 30px;
+  padding-left: 120px;
+  position: relative;
+  top: 25px;
+  cursor: pointer;
+}
+.pizza_closed .H2 {
+  position: relative;
+  padding-left: 100px;
+
+  top: 10px;
+}
+.suma span {
+  font-size: 20px;
+}
+.span1 {
+  float: right;
+  margin-right: 30px;
+  font-size: 50px;
+}
